@@ -1,0 +1,16 @@
+body {
+    background-color: mistyrose;
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    font-weight: normal;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    /* Same as above*/
+    font: normal 16px Arial, Helvetica, sans-serif;
+    line-height: 1.6em;
+}
